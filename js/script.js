@@ -15,7 +15,7 @@ function StartCelebration()
   }
 //Stay on celebration for specific time
   setTimeout(function(){ 
-    //window.location.replace("https://www.google.com/")
+    window.location.replace("https://www.google.com/")
   }, 3000);
   
 }
